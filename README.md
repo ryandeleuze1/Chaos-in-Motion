@@ -1,2 +1,2 @@
 # Chaos-in-Motion
-Modeling motion of magnetic pendulum with three magnets at the base.
+Model for motion of magnetic pendulum with three magnets at the base.
